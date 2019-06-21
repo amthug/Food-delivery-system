@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/jar_files/openjfx-78-backport-1.8.0-ea-b96.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/guice-3.0.jar/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/com.google.guava_1.6.0.jar/com.google.guava_1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/com.fasterxml.jackson.core.jar/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/jackson-annotations-2.1.2.jar/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/guice-multibindings-3.0.jar/guice-multibindings-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shubhank/Desktop/swiggy_jars/com.fasterxml.jackson.databind.jar/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
